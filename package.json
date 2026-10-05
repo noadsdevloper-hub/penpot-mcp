@@ -1,0 +1,7 @@
+{
+  "name": "penpot-mcp-cloud",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx -y @penpot/mcp@latest"
+  }
+}
